@@ -1,0 +1,6 @@
+{
+	"name": "CSWind-SelfHostIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
